@@ -1,0 +1,10 @@
+<div class="container-fluid no-gutter">
+    <div class="bg-overlay"></div>
+    <ul class="cb-slideshow">
+        {% for cover-item in site.cover %}
+        <li class="{{ cover-item.image }}">
+            <span style="background-image: url('/img/cover-slider/{{ cover-item.image }}.jpg')"></span>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
