@@ -1,0 +1,16 @@
+- id: 1
+  name: About Us
+  url: /about/
+
+- id: 2
+  name: Our Team
+  url: /our-team/
+
+- id: 3
+  image: /img/brand-logo-white.png
+  url: /
+
+- id: 4
+  name: Gallery
+  url: /gallery/
+

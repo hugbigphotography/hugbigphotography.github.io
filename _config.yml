@@ -1,0 +1,17 @@
+title: Hugbig Photography
+email: your-email@domain.com
+description: >
+  The meanings are countless. We at Hug Big Photography believe that hugging especially means to ACCEPT all that you have— your friends, family and even your self— with a BIG heart.
+baseurl:
+url:
+
+# Build settings
+markdown: kramdown
+
+sass:
+    style: compressed
+
+collections:
+  video:
+    output: true
+    permalink: /reel/:path/
