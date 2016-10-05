@@ -1,37 +1,21 @@
-<div class="container no-gutter content-container">
-    <div class="col-md-6 col-sm-12 col-xs-12">
-        <div class="about-content">
-            <h1 class="editable about-header">Natural.Candid.Real</h1>
-            <p class="editable about-description">In a world dominated by highly scripted, acted out wedding videos, Threelogy has been steadfast and bullishly stubborn in keeping theirs natural, candid and real.&nbsp;&nbsp;And we wouldn't have it any other way.&nbsp;&nbsp;And quite frankly, you should too.</p>
+<div class="container">
+    <div class="col-md-6 left-section">
+        <div class="content-container">
+            <div class="section-header">
+                <span class="header">I love you, I care, I'm Sorry,</span>
+                <span class="header">I'm here, I promise</span>
+            </div>
+            <div class="section-content">
+                <p class="content">The meanings are countless. We at Hug Big Photography believe that hugging especially means to ACCEPT all that you have your friends, family and even your self with a BIG heart.</p>
+            </div>
+            <div class="section-link">
+                <a class="link" href="/about/">Read More</a>
+            </div>
         </div>
     </div>
-    <div class="col-md-6 col-sm-12 col-xs-12">
+    <div class="col-md-6 right-section">
         <div class="section-content">
-            <div class="carousel-container">
-                <div id="testimonial-carousel" class="carousel slide" data-ride="carousel">
-                    <div class="carousel-inner">
-                        {% for item in site.data.testimonial %}
-                        <div {% if item.id == 1 %} class="item active" {% else%} class="item" {% endif %}>
-                            <div class="row">
-                                <div class="col-xs-12 no-gutter">
-                                    <div class="thumbnail">
-                                        <div class="col-md-10 col-sm-10 col-xs-12">
-                                            <div class="caption">
-                                                <h6 class="content-name">{{ item.name }}</h6>
-                                                <p class="content-testimonial">{{ item.testimonial }}</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        {% endfor %}
-                    </div>
-                    <a class="carousel-control left" href="#testimonial-carousel" data-slide="prev">&lsaquo;</a>
-                    <a class="carousel-control right" href="#testimonial-carousel" data-slide="next">&rsaquo;</a>
-                    </div>
-                </div>
-            </div>
+            <img class="image center-block" src="/img/brand-logo2.png"/>
         </div>
     </div>
 </div>

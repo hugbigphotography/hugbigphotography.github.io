@@ -12,6 +12,19 @@ sass:
     style: compressed
 
 collections:
-  video:
+  photography:
     output: true
-    permalink: /reel/:path/
+    permalink: /photography/:path/
+
+team:
+  - name: AP YAO
+    image: "apyao"
+    role: "Editor/Portraits/Landscapes/Lay-out"
+
+  - name: Alfred Adrian Yao
+    image: "alfredyao"
+    role: "Editor/Portraits/Candids"
+
+  - name: Hero Redila
+    image: "heroredila"
+    role: "Portraits/Candids/Landscapes"

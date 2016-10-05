@@ -1,0 +1,18 @@
+<div class="container">
+    <div class="section-header">
+        <h4 class="header text-center">OUR TEAM</h4>
+    </div>
+    <div class="content-container clearfix">
+        {% for team in site.team %}
+        <div class="col-md-4">
+            <div class="section-image">
+                <img class="center-block image" src="/img/{{ team.image }}.png"/>
+            </div>
+            <div class="caption">
+                <span class="section-name">{{ team.name }}</span>
+                <span class="section-role">{{ team.role }}</span>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
