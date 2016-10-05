@@ -18,7 +18,7 @@ collections:
 
 cover:
   - rank: 1
-    image: "item-2"
+    image: "item-1"
 
   - rank: 2
     image: "item-2"
@@ -37,6 +37,7 @@ cover:
 
   - rank: 7
     image: "item-7"
+
 
 team:
   - name: AP YAO
