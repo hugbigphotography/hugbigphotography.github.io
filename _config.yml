@@ -19,12 +19,23 @@ collections:
 team:
   - name: AP YAO
     image: "apyao"
-    role: "Editor/Portraits/Landscapes/Lay-out"
+    role: "Editor/Portraits/<br/>Landscapes/Lay-out"
 
   - name: Alfred Adrian Yao
     image: "alfredyao"
-    role: "Editor/Portraits/Candids"
+    role: "Editor/Portraits/<br/>Candids"
 
   - name: Hero Redila
     image: "heroredila"
-    role: "Portraits/Candids/Landscapes"
+    role: "Portraits/Candids/<br/>Landscapes"
+
+
+social-media:
+  - image: "instagram"
+    link: "https://www.instagram.com/hugbigphotography/"
+
+  - image: "youtube"
+    link: "https://www.youtube.com/channel/UC6_boFg_uWSn6Yst68AOM3A/videos"
+
+  - image: "facebook"
+    link: "https://www.facebook.com/hugbigphotography/"

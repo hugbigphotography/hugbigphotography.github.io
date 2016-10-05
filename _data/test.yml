@@ -1,0 +1,23 @@
+- name: "Jesse & Ivy"
+  image: "item-1"
+  type: "Wedding"
+
+- name: "Daniel & Peeng"
+  image: "item-2"
+  type: "Engagement"
+
+- name: "Sam & Marina"
+  image: "item-3"
+  type: "Engagement"
+
+- name: "Josan & Bryan"
+  image: "item-4"
+  type: "Engagement/Wedding"
+
+- name: "Mart & Shayne"
+  image: "item-5"
+  type: "Engagement"
+
+- name: "John & Judith"
+  image: "item-6"
+  type: "Wedding/Engagement"

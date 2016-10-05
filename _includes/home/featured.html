@@ -1,0 +1,19 @@
+<div class="container-fluid no-gutter">
+    <div class="section-header">
+        <h4 class="header text-center">FEATURED </h4>
+    </div>
+    <div class="content-container">
+        {% for item in site.data.test %}
+        <div class="col-md-4 no-gutter feature-item">
+            <a class="popup-vimeo" href="#">
+                <div class="feature-image"  style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url('/img/featured/{{ item.image }}.jpg');background-size: cover; background-position: center center;">
+                    <div class="caption">
+                        <h1 class="feature-title">{{ item.name }}</h1>
+                        <span class="feature-type">{{ item.type }}</span>
+                    </div>
+                </div>
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+</div>

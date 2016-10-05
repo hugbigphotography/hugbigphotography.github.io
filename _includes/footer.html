@@ -1,26 +1,18 @@
 <footer class="site-footer">
-  <div class="container no-gutter">
-    <div class="content-container">
+  <div class="container-fluid">
+    <div class="content-container clearfix">
       <div class="left-section">
-        <h5 class="content-text">Threelogy All Rights Reserved 2016</h5>
+        <h5 class="content-text">COPYRIGHT © 2016 HUG BIG PHOTOGRAPHY.</h5>
       </div>
       <div class="right-section">
         <ul class="media-container">
+          {% for media in site.social-media %}
           <li class="media-list">
-            <a href="https://www.facebook.com/threelogyvideo/" target="_blank" class="media-link">
-              <img class="media-button center-block" src="/img/icon-button/facebook.png"/>
+            <a href="{{ media.link }}" target="_blank" class="media-link">
+              <img class="media-button center-block" src="/img/social-media/{{ media.image }}.png"/>
             </a>
           </li>
-          <li class="media-list">
-            <a href="https://www.instagram.com/threelogyvideo/" target="_blank" class="media-link">
-              <img class="media-button center-block" src="/img/icon-button/Instagram.png"/>
-            </a>
-          </li>
-          <li class="media-list">
-            <a href="https://www.youtube.com/channel/UC83jnNXMp8cniE8u_RZGyjg" target="_blank" class="media-link">
-              <img class="media-button center-block" src="/img/icon-button/youtube.png"/>
-            </a>
-          </li>
+          {% endfor %}
         </ul>
       </div>
     </div>
