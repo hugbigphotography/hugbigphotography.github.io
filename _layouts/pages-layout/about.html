@@ -1,0 +1,24 @@
+---
+
+layout: default
+css: about.css
+title: about
+javascript: >
+
+    <script type="text/javascript">
+        $(function(){
+            var contactMenu = $('.navbar-menu').last();
+            contactMenu.on('click',function(){
+                $('html, body').animate({
+                    scrollTop: $($(this).find('a').attr('href')).offset().top - 100
+                }, 500);
+                return false;
+            });
+        });
+    </script>
+
+
+
+
+---
+{{ content }}
