@@ -65,7 +65,7 @@ social-media:
 
 button-filter:
   - id: 1
-    name: Debut
+    name: Pre-Debut
     filter: "pre-debut"
 
   - id: 2
