@@ -62,3 +62,23 @@ social-media:
 
   - image: "facebook"
     link: "https://www.facebook.com/hugbigphotography/"
+
+button-filter:
+  - id: 1
+    name: Debut
+    filter: "pre-debut"
+
+  - id: 2
+    name: Engagement Shoot
+    filter: "engagement"
+
+  - id: 3
+    name: Fashion
+    filter: "fashion"
+
+
+  - id: 4
+    name: Wedding
+    filter: "wedding"
+
+
