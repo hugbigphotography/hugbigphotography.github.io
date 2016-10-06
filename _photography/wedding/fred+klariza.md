@@ -1,0 +1,87 @@
+---
+layout: gallery
+type: "wedding"
+name: "Fred & Klariza"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475741885/wedding/fred+klariza/1.1.jpg"
+gallery:
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493369/wedding/fred%2Bklariza/106.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493402/wedding/fred%2Bklariza/1110.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493375/wedding/fred%2Bklariza/120.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493375/wedding/fred%2Bklariza/125.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493376/wedding/fred%2Bklariza/135.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493385/wedding/fred%2Bklariza/145.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493376/wedding/fred%2Bklariza/155.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493378/wedding/fred%2Bklariza/164.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493378/wedding/fred%2Bklariza/174.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493379/wedding/fred%2Bklariza/184.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493379/wedding/fred%2Bklariza/194.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493379/wedding/fred%2Bklariza/204.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493380/wedding/fred%2Bklariza/218.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493385/wedding/fred%2Bklariza/219.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493381/wedding/fred%2Bklariza/224.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493385/wedding/fred%2Bklariza/234.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493367/wedding/fred%2Bklariza/244.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493367/wedding/fred%2Bklariza/254.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493367/wedding/fred%2Bklariza/263.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493370/wedding/fred%2Bklariza/273.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493369/wedding/fred%2Bklariza/283.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493368/wedding/fred%2Bklariza/293.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493369/wedding/fred%2Bklariza/303.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493375/wedding/fred%2Bklariza/316.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493371/wedding/fred%2Bklariza/317.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493373/wedding/fred%2Bklariza/324.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493372/wedding/fred%2Bklariza/33.1.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493374/wedding/fred%2Bklariza/333.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493375/wedding/fred%2Bklariza/343.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493377/wedding/fred%2Bklariza/353.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493376/wedding/fred%2Bklariza/363.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493377/wedding/fred%2Bklariza/373.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493377/wedding/fred%2Bklariza/383.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493378/wedding/fred%2Bklariza/392.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493367/wedding/fred%2Bklariza/4.5.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493378/wedding/fred%2Bklariza/401.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493378/wedding/fred%2Bklariza/414.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493379/wedding/fred%2Bklariza/415.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493382/wedding/fred%2Bklariza/422.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493403/wedding/fred%2Bklariza/432.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493385/wedding/fred%2Bklariza/441.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493384/wedding/fred%2Bklariza/451.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493385/wedding/fred%2Bklariza/461.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493386/wedding/fred%2Bklariza/471.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493386/wedding/fred%2Bklariza/481.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493388/wedding/fred%2Bklariza/491.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493367/wedding/fred%2Bklariza/5.1.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493367/wedding/fred%2Bklariza/5.2.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493390/wedding/fred%2Bklariza/501.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493388/wedding/fred%2Bklariza/514.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493387/wedding/fred%2Bklariza/522.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493387/wedding/fred%2Bklariza/531.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493390/wedding/fred%2Bklariza/541.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493389/wedding/fred%2Bklariza/551.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493390/wedding/fred%2Bklariza/561.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493389/wedding/fred%2Bklariza/571.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493391/wedding/fred%2Bklariza/581.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493390/wedding/fred%2Bklariza/591.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493391/wedding/fred%2Bklariza/601.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493393/wedding/fred%2Bklariza/610.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493392/wedding/fred%2Bklariza/612.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493392/wedding/fred%2Bklariza/622.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493392/wedding/fred%2Bklariza/631.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493393/wedding/fred%2Bklariza/641.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493392/wedding/fred%2Bklariza/651.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493393/wedding/fred%2Bklariza/661.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493394/wedding/fred%2Bklariza/671.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493401/wedding/fred%2Bklariza/681.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493393/wedding/fred%2Bklariza/691.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493369/wedding/fred%2Bklariza/70.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493394/wedding/fred%2Bklariza/711.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493399/wedding/fred%2Bklariza/721.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493394/wedding/fred%2Bklariza/731.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493396/wedding/fred%2Bklariza/741.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493396/wedding/fred%2Bklariza/751.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493372/wedding/fred%2Bklariza/76.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493373/wedding/fred%2Bklariza/86.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475493372/wedding/fred%2Bklariza/96.jpg
+
+
+---

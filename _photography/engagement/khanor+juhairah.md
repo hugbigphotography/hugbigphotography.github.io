@@ -1,0 +1,85 @@
+---
+layout: gallery
+type: engagement
+name: "Khanor & Juhairah"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475488779/engagement/khanor%2Bjuhairah/751.jpg"
+gallery:
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488753/engagement/khanor%2Bjuhairah/1.1.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488755/engagement/khanor%2Bjuhairah/103.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488755/engagement/khanor%2Bjuhairah/113.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488757/engagement/khanor%2Bjuhairah/114.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488756/engagement/khanor%2Bjuhairah/143.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488757/engagement/khanor%2Bjuhairah/153.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488757/engagement/khanor%2Bjuhairah/163.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488759/engagement/khanor%2Bjuhairah/173.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488759/engagement/khanor%2Bjuhairah/183.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488757/engagement/khanor%2Bjuhairah/193.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488758/engagement/khanor%2Bjuhairah/202.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488759/engagement/khanor%2Bjuhairah/213.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488758/engagement/khanor%2Bjuhairah/222.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488758/engagement/khanor%2Bjuhairah/233.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488759/engagement/khanor%2Bjuhairah/242.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488760/engagement/khanor%2Bjuhairah/252.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488760/engagement/khanor%2Bjuhairah/261.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488760/engagement/khanor%2Bjuhairah/271.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488760/engagement/khanor%2Bjuhairah/281.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488756/engagement/khanor%2Bjuhairah/29.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488761/engagement/khanor%2Bjuhairah/291.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488753/engagement/khanor%2Bjuhairah/30.1.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488760/engagement/khanor%2Bjuhairah/301.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488760/engagement/khanor%2Bjuhairah/310.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488762/engagement/khanor%2Bjuhairah/312.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488754/engagement/khanor%2Bjuhairah/32.1.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488768/engagement/khanor%2Bjuhairah/322.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488774/engagement/khanor%2Bjuhairah/331.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488761/engagement/khanor%2Bjuhairah/341.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488763/engagement/khanor%2Bjuhairah/351.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488761/engagement/khanor%2Bjuhairah/361.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488763/engagement/khanor%2Bjuhairah/371.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488773/engagement/khanor%2Bjuhairah/381.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488764/engagement/khanor%2Bjuhairah/391.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488764/engagement/khanor%2Bjuhairah/401.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488764/engagement/khanor%2Bjuhairah/410.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488765/engagement/khanor%2Bjuhairah/412.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488765/engagement/khanor%2Bjuhairah/422.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488765/engagement/khanor%2Bjuhairah/431.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488754/engagement/khanor%2Bjuhairah/44.1.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488766/engagement/khanor%2Bjuhairah/441.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488766/engagement/khanor%2Bjuhairah/451.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488768/engagement/khanor%2Bjuhairah/461.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488766/engagement/khanor%2Bjuhairah/471.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488767/engagement/khanor%2Bjuhairah/481.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488768/engagement/khanor%2Bjuhairah/491.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488769/engagement/khanor%2Bjuhairah/501.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488770/engagement/khanor%2Bjuhairah/511.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488770/engagement/khanor%2Bjuhairah/521.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488756/engagement/khanor%2Bjuhairah/53.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488769/engagement/khanor%2Bjuhairah/531.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488769/engagement/khanor%2Bjuhairah/541.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488769/engagement/khanor%2Bjuhairah/551.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488771/engagement/khanor%2Bjuhairah/561.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488771/engagement/khanor%2Bjuhairah/571.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488771/engagement/khanor%2Bjuhairah/581.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488772/engagement/khanor%2Bjuhairah/591.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488771/engagement/khanor%2Bjuhairah/601.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488772/engagement/khanor%2Bjuhairah/610.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488772/engagement/khanor%2Bjuhairah/612.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488772/engagement/khanor%2Bjuhairah/622.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488773/engagement/khanor%2Bjuhairah/631.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488773/engagement/khanor%2Bjuhairah/641.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488779/engagement/khanor%2Bjuhairah/651.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488776/engagement/khanor%2Bjuhairah/661.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488778/engagement/khanor%2Bjuhairah/671.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488777/engagement/khanor%2Bjuhairah/681.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488793/engagement/khanor%2Bjuhairah/691.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488777/engagement/khanor%2Bjuhairah/701.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488778/engagement/khanor%2Bjuhairah/712.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488777/engagement/khanor%2Bjuhairah/721.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488778/engagement/khanor%2Bjuhairah/731.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488778/engagement/khanor%2Bjuhairah/741.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488779/engagement/khanor%2Bjuhairah/751.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488754/engagement/khanor%2Bjuhairah/77.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488755/engagement/khanor%2Bjuhairah/82.jpg
+    - https://res.cloudinary.com/hugbigphotography/image/upload/v1475488755/engagement/khanor%2Bjuhairah/93.jpg
+
+---
