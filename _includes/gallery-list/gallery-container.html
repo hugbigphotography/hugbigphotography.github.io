@@ -1,0 +1,52 @@
+<section id="gallery-list">
+
+    <div class="filter-container container-fluid no-gutter">
+        <div class="filters-button-group button-group visibile-md hidden-sm hidden-xs">
+            {% for filter in site.button-filter %}
+            {% assign counter = counter | plus: 1%}
+            <button class="btn-isotope" data-filter=".{{ filter.filter }}">{{ filter.name }}</button>
+            {% endfor %}
+            <input type="text" placeholder="search couple name" class="inputSearch form-control" id="search-name1">
+        </div>
+    </div>
+
+    <div class="no-gutter filters-button-group button-group category-nav-container hidden-lg hidden-md">
+        <div class="category-nav-mobile">
+            <a href="#" id="category-button" data-toggle="collapse" data-target="#navbar-category-collapse">Filter Menu <span class="caret"></span></a>
+        </div>
+        <div class="full-width no-gutter collapse navbar-collapse" id="navbar-category-collapse">
+            <ul class="category-nav">
+            {% assign counter = 0%}
+            {% for filter in site.button-filter %}
+            {% assign counter = counter | plus: 1%}
+            <li>
+                <button class="btn-isotope" data-filter=".{{ filter.filter }}">{{ filter.name }}</button>
+            </li>
+            {% endfor %}
+            <li>
+                <input type="text" placeholder="search couple name" class="inputSearch form-control" id="search-name2">
+            </li>
+        </ul>
+        </div>
+    </div>
+
+    <div class="container-fluid gallery-list-container">
+        <div class="grid">
+            {% assign sorted-gallery = site.photography %}
+            {% for gallery-list in sorted-gallery %}
+            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 no-gutter gallery-image-item {{ gallery-list.type }}">
+                <a class="popup-vimeo" href="{{ gallery-list.url }}">
+                    <div class="gallery-image"  style="background-image: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5) ),url('{{ gallery-list.cover-image }}'); ">
+                        <div class="caption">
+                            <h1 class="gallery-title">{{ gallery-list.title }}</h1>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+        <div id="no-result">
+            <h2 id="result-text">Sorry, no result found.</h2>
+        </div>
+    </div>
+</section>

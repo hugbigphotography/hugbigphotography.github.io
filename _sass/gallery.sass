@@ -1,0 +1,274 @@
+#gallery-list
+  .filter-container
+    //background-color: #5f081a
+    background-color: #f7f7f7
+    .button-group
+      padding:  0
+      margin: 0 auto
+      .btn-isotope
+        text-transform: uppercase
+        float: left
+        display: inline-block
+        text-decoration: none
+        text-align: center
+        padding: 32px 0
+        width: 20%
+        border-radius: 0
+        outline: none
+        background-color: transparent
+        color: #5f081a
+        transition: all 300ms ease-in-out
+        border: none
+        &.is-checked
+          background-color: #5f081a
+          color: #f7f7f7
+        &:hover
+          background-color: #6f0b20
+          color: #f7f7f7
+      #search-name1
+        color: #ffffff
+        width: 20%
+        display: inline-block
+        border-radius: 0
+        height: 83px
+        border: none
+        padding: 0 15px
+        background-color: #000000
+        outline: none
+        box-shadow: none
+        -webkit-appearance: none
+      #search-name2
+        width: 20%
+        border-radius: 0
+        height: 83px
+        color: #ffffff
+        padding: 0 15px
+        background-color: #000000
+        border: none
+        outline: none
+        -webkit-appearance: none
+        box-shadow: none
+
+  .gallery-list-container
+    min-height: 100vh
+    padding: 0
+    .grid
+      overflow: hidden
+      display: none
+      .gallery-image-item
+        position: relative
+        .popup-vimeo
+          text-decoration: none
+          border: 0
+          outline: none
+          display: block
+          .gallery-image
+            z-index: 2
+            height: 400px
+            position: relative
+            background-size: cover
+            background-repeat: no-repeat
+            transition: all 300ms ease-in-out
+            background-position: center center
+            .caption
+              position: absolute
+              bottom: 20px
+              left: 20px
+              .gallery-title
+                color: white
+                font-size: 22px
+                //text-transform: capitalize
+                letter-spacing: 2px
+              .gallery-date
+                color: white
+                margin: 0
+            &.description
+              background-color: #5f081a
+              .caption
+                top: 50%
+                transform: translateY(-50%)
+                max-width: 80%
+                left: 0
+                right: 0
+                margin: 0 auto
+                .category-description
+                  line-height: 30px
+                  font-size: 16px
+                  color: white
+
+        .content-container
+          background-color: #f7f7f7
+          padding: 15px 0
+
+    #no-result
+
+      display: none
+      #result-text
+        text-align: center
+        marign: 0
+      &.active
+        display: block
+
+        opacity: 1
+        position: absolute
+        left: 0
+        right: 0
+        top: 50%
+        transform: translateY(-50%)
+
+#gallery-specific
+  position: relative
+  background-color: #f7f7f7
+  #video
+    position: relative
+    height: 700px
+    #video-bg
+      transition: background-image 500ms ease-in-out
+      background-position: center center
+      background-repeat: no-repeat
+      background-size: cover
+      height: inherit
+      .video-button-container
+        width: 100%
+        position: absolute
+        top: 50%
+        transform: translateY(-50%)
+        -webkit-transform: translateY(-50%)
+        -moz-transform: translateY(-50%)
+        -o-transform: translateY(-50%)
+        -ms-transform: translateY(-50%)
+        z-index: 5
+        .video-button
+          cursor: pointer
+          left: 0
+          right: 0
+          height: 100px
+        .caption
+          .caption-text
+            color: white
+            letter-spacing: 2px
+            text-align: center
+    .iframe-video-container
+      background-color: black
+      height: inherit
+      display: none
+      iframe
+        height: inherit
+        width: 100%
+
+  .video-description-container
+    margin: 35px auto
+    line-height: 45px
+    p
+      font-size: 18px
+      &:first-child:first-letter
+        font-size: 200%
+
+@media (max-width: 1440px)
+  #gallery-list
+    .gallery-list-container
+      padding: 0
+      .grid
+        .gallery-image-item
+          .popup-vimeo
+            .gallery-image
+              height: 350px
+
+  #gallery-specific
+    #video
+      height: 550px
+
+@media (max-width: $screen-md-max)
+
+
+@media (min-width: $screen-md-min)
+  #gallery-specific
+    .header-container
+      width: 970px
+
+    #background-overlay
+      background-color: black
+      .video-container
+        width: 970px
+        
+    .video-description-container
+      width: 970px
+      
+    .disqus-container
+      width: 970px
+
+@media (max-width: $screen-sm-max)
+  #gallery-list
+    background-color: #f7f7f7
+    .category-nav-container
+      display: block
+      .category-nav-mobile
+        text-align: center
+        background-color: #5f081a
+        #category-button
+          padding: 20px 0
+          color: white
+          text-transform: uppercase
+          text-decoration: none
+          display: block
+      .navbar-collapse
+        &.collapse
+          display: none !important
+        &.in
+          display: block !important
+      #navbar-category-collapse
+        .category-nav
+          padding-left: 0
+          list-style: none
+          .dropdown
+            display: block
+            width: 100%
+            .dropdown-menu
+              position: relative
+              width: 100%
+              padding: 0
+              border: none
+              box-shadow: none
+              margin: 0
+          .btn-isotope
+            display: block
+            width: 100%
+            padding: 14px 0
+            margin-left: 0
+            margin-right: 0
+            border-radius: 0
+            border: none
+            color: white
+            background-color: #5F0822
+            -webkit-appearance: none
+            box-shadow: none
+            outline: none
+          #search-name2
+            padding-top: 14px
+            padding-bottom: 14px
+            width: 100%
+            height: 49px
+            border: none
+            background-color: #7F0B23
+            color: white
+            outline: none
+            -webkit-appearance: none
+            box-shadow: none
+            float: right
+            border-radius: 0
+            text-align: center
+    .gallery-list-container
+      padding: 0
+
+@media (max-width: 568px)
+  #gallery-list
+    .gallery-list-container
+      .grid
+        .gallery-image-item
+          .popup-vimeo
+            .gallery-image
+              height: 200px
+
+
+
+
