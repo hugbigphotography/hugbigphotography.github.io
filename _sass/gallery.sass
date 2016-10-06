@@ -16,14 +16,14 @@
         border-radius: 0
         outline: none
         background-color: transparent
-        color: #58595b
+        color: #efa6ba
         transition: all 300ms ease-in-out
         border: none
         &.is-checked
-          background-color: #58595b
+          background-color: #a8dddc
           color: $white
         &:hover
-          background-color: #58595b
+          background-color: #a8dddc
           color: $white
       #search-name1
         color: #ffffff
@@ -37,21 +37,37 @@
         outline: none
         box-shadow: none
         -webkit-appearance: none
+        &::-webkit-input-placeholder
+          color: white
+        &:-moz-placeholder  /* Firefox 18- */
+          color: white
+        &::-moz-placeholder  /* Firefox 19+ */
+          color: white
+        &:-ms-input-placeholder
+          color: white
       #search-name2
         width: 20%
         border-radius: 0
         height: 83px
         color: #ffffff
         padding: 0 15px
-        background-color: #58595b
+        background-color: #EEA8BC
         border: none
         outline: none
         -webkit-appearance: none
         box-shadow: none
-
+        &::-webkit-input-placeholder
+          color: white
+        &:-moz-placeholder  /* Firefox 18- */
+          color: white
+        &::-moz-placeholder  /* Firefox 19+ */
+          color: white
+        &:-ms-input-placeholder
+          color: white
   .gallery-list-container
     min-height: 100vh
     padding: 0
+    background-color: $dirty-white
     .grid
       position: relative
       overflow: hidden
