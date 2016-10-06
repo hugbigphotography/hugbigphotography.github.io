@@ -20,12 +20,20 @@
                     <a  href="{{ navbarMenu.url }}">{{ navbarMenu.name | upcase }}</a>
                 </li>
                 {% else %}
+                {% if page.url == "/" %}
                 <li class="navbar-brand-logo hidden-sm hidden-xs" {% if page.url !="/" %} style="display: block"{% endif %}>
                     <a href="{{ navbarMenu.url }}">
                         <img src="/img/brand-logo-white.png" class="brand-logo-white"/>
                         <img src="/img/brand-logo-orig.png" class="brand-logo-orig"/>
                     </a>
                 </li>
+                {% else %}
+                <li class="navbar-brand-logo hidden-sm hidden-xs" {% if page.url !="/" %} style="display: block"{% endif %}>
+                    <a href="{{ navbarMenu.url }}">
+                        <img src="/img/brand-logo-orig.png" style="display: block" class="brand-logo-orig"/>
+                    </a>
+                </li>
+                {% endif %}
                 {% endif %}
                 {% endfor %}
                 <li class="navbar-menu contact-menu">
