@@ -1,4 +1,10 @@
 <div class="container-fluid no-gutter">
+    <div class="cover-container">
+        <div class="content-section">
+            <h2 class="section-header">{{ page.name }}</h2>
+            <h4 class="section-type">{{ page.type }}</h4>
+        </div>
+    </div>
     <div id="gallery-container" class="clearfix images">
         {% for gallery-image in page.gallery %}
         {% assign counter = counter | plus: 1%}
