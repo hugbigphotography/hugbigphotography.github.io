@@ -47,7 +47,7 @@ javascript: >
             var contactMenu = $('.navbar-menu').last();
             contactMenu.on('click',function(){
                 $('html, body').animate({
-                    scrollTop: $($(this).find('a').attr('href')).offset().top - 100
+                    scrollTop: $($(this).find('a').attr('href')).offset().top - 0
                 }, 500);
                 return false;
             });

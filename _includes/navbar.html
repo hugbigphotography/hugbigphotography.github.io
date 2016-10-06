@@ -17,7 +17,14 @@
                 {% for navbarMenu in site.data.navbar %}
                 {% if navbarMenu.id != 3 %}
                 <li {% if page.url == navbarMenu.url %} class="navbar-menu active-menu"  {% else %} class="navbar-menu" {% endif %}>
-                    <a  href="{{ navbarMenu.url }}">{{ navbarMenu.name | upcase }}</a>
+                    <a {% if navbarMenu.id == 2 %}
+                       {% if page.url !="/" %}
+                       href="../#team"
+                       {% endif %}
+                       {% else %}
+                       href="{{ navbarMenu.url }}"
+                       {% endif %}>
+                        {{ navbarMenu.name | upcase }}</a>
                 </li>
                 {% else %}
                 {% if page.url == "/" %}
@@ -36,6 +43,7 @@
                 {% endif %}
                 {% endif %}
                 {% endfor %}
+
                 <li class="navbar-menu contact-menu">
                     <a  href="#" data-toggle="modal" data-target="#myModal">CONTACT</a>
                 </li>
