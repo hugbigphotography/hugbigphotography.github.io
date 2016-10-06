@@ -1,0 +1,77 @@
+---
+layout: gallery
+type: "wedding"
+name: "Glenn & Florymei"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475493587/wedding/glenn%2Bflorymei/65.jpg"
+gallery:
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493591/wedding/glenn%2Bflorymei/102.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493593/wedding/glenn%2Bflorymei/113.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493592/wedding/glenn%2Bflorymei/114.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493592/wedding/glenn%2Bflorymei/122.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493594/wedding/glenn%2Bflorymei/132.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493594/wedding/glenn%2Bflorymei/142.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493593/wedding/glenn%2Bflorymei/152.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493595/wedding/glenn%2Bflorymei/162.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493594/wedding/glenn%2Bflorymei/172.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493580/wedding/glenn%2Bflorymei/18.1.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493581/wedding/glenn%2Bflorymei/18.2.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493595/wedding/glenn%2Bflorymei/182.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493596/wedding/glenn%2Bflorymei/192.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493596/wedding/glenn%2Bflorymei/202.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493596/wedding/glenn%2Bflorymei/210.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493598/wedding/glenn%2Bflorymei/213.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493598/wedding/glenn%2Bflorymei/222.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493597/wedding/glenn%2Bflorymei/232.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493597/wedding/glenn%2Bflorymei/242.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493598/wedding/glenn%2Bflorymei/252.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493599/wedding/glenn%2Bflorymei/261.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493584/wedding/glenn%2Bflorymei/27.1.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493599/wedding/glenn%2Bflorymei/271.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493599/wedding/glenn%2Bflorymei/281.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493599/wedding/glenn%2Bflorymei/291.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493601/wedding/glenn%2Bflorymei/301.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493601/wedding/glenn%2Bflorymei/312.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493600/wedding/glenn%2Bflorymei/322.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493601/wedding/glenn%2Bflorymei/331.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493601/wedding/glenn%2Bflorymei/341.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493600/wedding/glenn%2Bflorymei/351.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493601/wedding/glenn%2Bflorymei/361.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493602/wedding/glenn%2Bflorymei/371.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493610/wedding/glenn%2Bflorymei/381.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493580/wedding/glenn%2Bflorymei/39.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493605/wedding/glenn%2Bflorymei/391.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493580/wedding/glenn%2Bflorymei/40.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493602/wedding/glenn%2Bflorymei/411.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493604/wedding/glenn%2Bflorymei/421.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493581/wedding/glenn%2Bflorymei/43.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493608/wedding/glenn%2Bflorymei/431.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493581/wedding/glenn%2Bflorymei/44.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493581/wedding/glenn%2Bflorymei/45.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493581/wedding/glenn%2Bflorymei/46.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493583/wedding/glenn%2Bflorymei/47.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493583/wedding/glenn%2Bflorymei/48.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493583/wedding/glenn%2Bflorymei/49.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493583/wedding/glenn%2Bflorymei/50.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493603/wedding/glenn%2Bflorymei/511.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493583/wedding/glenn%2Bflorymei/52.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493612/wedding/glenn%2Bflorymei/521.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493584/wedding/glenn%2Bflorymei/53.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493584/wedding/glenn%2Bflorymei/54.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493584/wedding/glenn%2Bflorymei/55.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493584/wedding/glenn%2Bflorymei/56.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493592/wedding/glenn%2Bflorymei/57.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493585/wedding/glenn%2Bflorymei/58.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493599/wedding/glenn%2Bflorymei/59.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493585/wedding/glenn%2Bflorymei/60.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493604/wedding/glenn%2Bflorymei/611.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493588/wedding/glenn%2Bflorymei/62.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493606/wedding/glenn%2Bflorymei/621.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493599/wedding/glenn%2Bflorymei/63.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493590/wedding/glenn%2Bflorymei/64.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493587/wedding/glenn%2Bflorymei/65.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493588/wedding/glenn%2Bflorymei/66.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493589/wedding/glenn%2Bflorymei/72.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493589/wedding/glenn%2Bflorymei/82.jpg
+    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493590/wedding/glenn%2Bflorymei/92.jpg
+
+---

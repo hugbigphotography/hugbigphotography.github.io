@@ -6,7 +6,7 @@
             {% assign counter = counter | plus: 1%}
             <button {% if counter == 1 %} class="btn-isotope is-checked"{% else %} class="btn-isotope" {% endif %} data-filter=".{{ filter.filter }}">{{ filter.name }}</button>
             {% endfor %}
-            <input type="text" placeholder="search couple name" class="inputSearch form-control" id="search-name1">
+            <input type="text" placeholder="search name" class="inputSearch form-control" id="search-name1">
         </div>
     </div>
 
@@ -24,7 +24,7 @@
             </li>
             {% endfor %}
             <li>
-                <input type="text" placeholder="search couple name" class="inputSearch form-control" id="search-name2">
+                <input type="text" placeholder="search name" class="inputSearch form-control" id="search-name2">
             </li>
         </ul>
         </div>
@@ -32,7 +32,7 @@
 
     <div class="container-fluid gallery-list-container">
         <div class="grid">
-            {% assign sorted-gallery = site.photography %}
+            {% assign sorted-gallery = site.gallery %}
             {% for gallery-list in sorted-gallery %}
             <div class="col-md-4 no-gutter gallery-image-item {{ gallery-list.type }}">
                 <a class="popup-vimeo" href="{{ gallery-list.url }}">

@@ -12,9 +12,9 @@ sass:
     style: compressed
 
 collections:
-  photography:
+  gallery:
     output: true
-    permalink: /photography/:path/
+    permalink: /gallery/:path/
 
 cover:
   - rank: 1

@@ -16,7 +16,7 @@
         border-radius: 0
         outline: none
         background-color: transparent
-        color: #efa6ba
+        color: #A79393
         transition: all 300ms ease-in-out
         border: none
         &.is-checked
@@ -149,53 +149,6 @@
         top: 50%
         transform: translateY(-50%)
 
-#gallery-specific
-  position: relative
-  background-color: #f7f7f7
-  #video
-    position: relative
-    height: 700px
-    #video-bg
-      transition: background-image 500ms ease-in-out
-      background-position: center center
-      background-repeat: no-repeat
-      background-size: cover
-      height: inherit
-      .video-button-container
-        width: 100%
-        position: absolute
-        top: 50%
-        transform: translateY(-50%)
-        -webkit-transform: translateY(-50%)
-        -moz-transform: translateY(-50%)
-        -o-transform: translateY(-50%)
-        -ms-transform: translateY(-50%)
-        z-index: 5
-        .video-button
-          cursor: pointer
-          left: 0
-          right: 0
-          height: 100px
-        .caption
-          .caption-text
-            color: white
-            letter-spacing: 2px
-            text-align: center
-    .iframe-video-container
-      background-color: black
-      height: inherit
-      display: none
-      iframe
-        height: inherit
-        width: 100%
-
-  .video-description-container
-    margin: 35px auto
-    line-height: 45px
-    p
-      font-size: 18px
-      &:first-child:first-letter
-        font-size: 200%
 
 @media (max-width: 1440px)
   #gallery-list
@@ -207,28 +160,18 @@
             .gallery-image
               height: 350px
 
-  #gallery-specific
-    #video
-      height: 550px
-
-@media (max-width: $screen-md-max)
-
 
 @media (min-width: $screen-md-min)
-  #gallery-specific
-    .header-container
+  #background-overlay
+    background-color: black
+    .video-container
       width: 970px
 
-    #background-overlay
-      background-color: black
-      .video-container
-        width: 970px
-        
-    .video-description-container
-      width: 970px
-      
-    .disqus-container
-      width: 970px
+  .video-description-container
+    width: 970px
+
+  .disqus-container
+    width: 970px
 
 @media (max-width: $screen-sm-max)
   #gallery-list
