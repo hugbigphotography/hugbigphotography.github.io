@@ -16,7 +16,6 @@ javascript: >
                 itemSelector: '.gallery-image-item',
                 layoutMode: 'fitRows',
                 sortAscending: true,
-
                 filter: function () {
                     var $this = $(this);
                     var searchResult1 = nameRegex ? $this.text().match(nameRegex) : true;
@@ -37,7 +36,7 @@ javascript: >
         });
 
 
-        $('.filters-button-group').on('click', 'button', function () {
+        $('.filters-button-group').on('click', '.btn-isotope', function () {
             buttonFilter1 = $(this).attr('data-filter');
             $container.isotope({});
             //            return false;
@@ -45,7 +44,7 @@ javascript: >
 
         $('.button-group').each(function (i, slidein) {
             var $slidein = $(slidein);
-            $slidein.on('click', 'button', function () {
+            $slidein.on('click', '.btn-isotope', function () {
                 $slidein.find('.is-checked').removeClass('is-checked');
                 $(this).addClass('is-checked');
             });
