@@ -7,7 +7,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="{{ site.description }}">
     <meta name="author" content="">
-
+    <link rel="shortcut icon" href="/favicon.ico">
     <title>{{ site.title }} | Gallery</title>
     <link href='https://fonts.googleapis.com/css?family=Lato:400,300,900' rel='stylesheet' type='text/css'/>
     <link href="/css/gallery-specific.css" rel="stylesheet" type="text/css"/>
@@ -41,6 +41,19 @@
             console.log(imageSrcValue);
         });
 
+    });
+    $("#form-content").on("submit",function(){
+        $("#ss-submit").attr("disabled", true);
+        setTimeout(function(){
+            $("#ss-submit").attr("disabled", false);
+        }, 1000);
+        $("#hidden_iframe").on('load',function () {
+            $("#modal-message").modal('show');
+            $("#form-content")[0].reset();
+            setTimeout(function(){
+                $("#modal-message").modal('hide');
+            }, 2000);
+        });
     });
 </script>
 

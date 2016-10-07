@@ -1,23 +1,29 @@
 - name: "Jesse & Ivy"
   image: "item-1"
   type: "Wedding"
+  url: "/gallery/wedding/jesse+ivy/"
 
 - name: "Daniel & Peeng"
   image: "item-2"
   type: "Engagement"
+  url: "#"
 
 - name: "Sam & Marina"
   image: "item-3"
   type: "Engagement"
+  url: "/gallery/engagement/sam+marina/"
 
 - name: "Josan & Bryan"
   image: "item-4"
   type: "Engagement/Wedding"
+  url: "#"
 
 - name: "Mart & Shayne"
   image: "item-5"
   type: "Engagement"
+  url: "/gallery/engagement/mart+shayne/"
 
 - name: "John & Judith"
   image: "item-6"
   type: "Wedding/Engagement"
+  url: "/gallery/wedding/john+judith/"

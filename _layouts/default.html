@@ -8,7 +8,7 @@
     <meta name="description" content="{{ site.description }}">
     <meta name="author" content="">
     <title>{{ site.title}} | {{ layout.title }}</title>
-
+    <link rel="shortcut icon" href="/favicon.ico">
     <link href='https://fonts.googleapis.com/css?family=Lato:400,300,900' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="/css/{{ layout.css }}">
 
@@ -17,6 +17,7 @@
 
 {% include navbar.html %}
 {{ content }}
+{% include modal.html %}
 {% include footer.html %}
 
 
@@ -28,6 +29,19 @@
 <script type="text/javascript">
     $('#icon-transition').on('click', function () {
         $(this).toggleClass('open');
+    });
+    $("#form-content").on("submit",function(){
+        $("#ss-submit").attr("disabled", true);
+        setTimeout(function(){
+            $("#ss-submit").attr("disabled", false);
+        }, 1000);
+        $("#hidden_iframe").on('load',function () {
+            $("#modal-message").modal('show');
+            $("#form-content")[0].reset();
+            setTimeout(function(){
+                $("#modal-message").modal('hide');
+            }, 2000);
+        });
     });
 </script>
 

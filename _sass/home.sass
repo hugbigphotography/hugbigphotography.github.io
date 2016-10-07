@@ -70,7 +70,6 @@ body
         -ms-animation: titleAnimation 42s linear infinite 0s
         animation: titleAnimation 42s linear infinite 0s
 
-
       &:nth-child(1) span
         -webkit-animation-delay: 0s
         -moz-animation-delay: 0s
@@ -377,6 +376,8 @@ body
           line-height: 30px
           font-weight: 200
           max-width: 90%
+          margin-left: auto
+          margin-right: auto
       .section-link
         .link
           display: inline-block
@@ -454,6 +455,9 @@ body
           &:hover
             opacity: 0.3
         .feature-image
+          background-size: cover
+          background-repeat: no-repeat
+          background-position: center center
           z-index: 4
           position: relative
           height: 33.33vw
@@ -504,6 +508,40 @@ body
           -webkit-box-orient: vertical
           width: 80%
           margin: 0 auto
+
+@media (max-width: $screen-sm-max)
+  #about
+    padding-top: 50px
+    padding-bottom: 50px
+    .left-section
+      .content-container
+        .section-header
+          .header
+            text-align: center
+        .section-content
+          .content
+            text-align: center
+        .section-link
+          text-align: center
+    .right-section
+      .section-content
+        margin-bottom: 30px
+        .image
+          height: 220px
+
+  #team
+    .content-container
+      padding-top: 50px
+      padding-bottom: 50px
+      .caption
+        margin-bottom: 50px
+
+  #featured
+    .content-container
+      .feature-item
+        .popup-vimeo
+          .feature-image
+            background-position: top center
 
 
 
