@@ -73,7 +73,6 @@
 
 .modal.fade
   .modal-dialog
-    max-width: 80%
     margin: 0 auto
     position: absolute
     -webkit-transition: all 0.3s ease
@@ -81,31 +80,29 @@
     -o-transition: all 0.3s ease
     transition: all 0.3s ease
     width: fit-content
-    top: 50%
+    top: 5%
     left: 0
     right: 0
     opacity: 1
-    -webkit-transform: translateY(-50%)
-    -ms-transform: translateY(-50%)
-    -o-transform: translateY(-50%)
-    transform: translateY(-50%)
-    .content-image
-      max-height: 768px
+    -webkit-transform: none
+    -ms-transform: none
+    -o-transform: none
+    transform: none
+
   &.in
     background-color: rgba(0,0,0,0.7)
     .modal-dialog
       margin-top: 0
       margin-bottom: 0
-      top: 50%
+      top: 5%
       left: 0
       right: 0
       opacity: 1
-      -webkit-transform: translateY(-50%)
-      -ms-transform: translateY(-50%)
-      -o-transform: translateY(-50%)
-      transform: translateY(-50%)
-      .content-image
-        max-height: 768px
+      -webkit-transform: none
+      -ms-transform: none
+      -o-transform: none
+      transform: none
+
 
 /* DIALOG CONTENT
 .modal-content
