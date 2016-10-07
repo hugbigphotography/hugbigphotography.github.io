@@ -6,7 +6,6 @@ cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475488
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488378/engagement/allaine%2Bgrazilla/116.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488378/engagement/allaine%2Bgrazilla/215.jpg
-    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488378/engagement/allaine%2Bgrazilla/313.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488378/engagement/allaine%2Bgrazilla/412.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488378/engagement/allaine%2Bgrazilla/512.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488378/engagement/allaine%2Bgrazilla/68.jpg
