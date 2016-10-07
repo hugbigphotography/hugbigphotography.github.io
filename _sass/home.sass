@@ -376,8 +376,6 @@ body
           line-height: 30px
           font-weight: 200
           max-width: 90%
-          margin-left: auto
-          margin-right: auto
       .section-link
         .link
           display: inline-block
@@ -520,6 +518,8 @@ body
             text-align: center
         .section-content
           .content
+            margin-left: auto
+            margin-right: auto
             text-align: center
         .section-link
           text-align: center
@@ -543,7 +543,17 @@ body
           .feature-image
             background-position: top center
 
+@media (max-width: $screen-xs-max)
+  #featured
+    .content-container
+      .feature-item
+        .popup-vimeo
+          .feature-image
+            height: 350px
+            background-position: 50% 15%
+
 @media (max-width: 568px)
+
   #about
     .left-section
       .content-container
@@ -563,12 +573,6 @@ body
       .link
         padding: 20px 30px
 
-  #featured
-    .content-container
-      .feature-item
-        .popup-vimeo
-          .feature-image
-            height: 350px
 
   #team
     .content-container

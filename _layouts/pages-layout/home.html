@@ -44,10 +44,10 @@ javascript: >
 
             }
 
-            var contactMenu = $('.navbar-menu').last();
+            var contactMenu = $('.navbar-menu');
             contactMenu.on('click',function(){
                 $('html, body').animate({
-                    scrollTop: $($(this).find('a').attr('href')).offset().top - 0
+                    scrollTop: $($(this).find('a').attr('href')).offset().top - 120
                 }, 500);
                 return false;
             });

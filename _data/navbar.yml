@@ -4,7 +4,7 @@
 
 - id: 2
   name: Our Team
-  url: team
+  url: "#team"
 
 - id: 3
   url: /

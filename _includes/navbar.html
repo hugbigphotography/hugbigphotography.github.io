@@ -17,14 +17,22 @@
                 {% for navbarMenu in site.data.navbar %}
                 {% if navbarMenu.id != 3 %}
                 <li {% if page.url == navbarMenu.url %} class="navbar-menu active-menu"  {% else %} class="navbar-menu" {% endif %}>
-                    <a {% if navbarMenu.id == 2 %}
-                       {% if page.url !="/" %}
-                       href="../#team"
-                       {% endif %}
-                       {% else %}
-                       href="{{ navbarMenu.url }}"
-                       {% endif %}>
-                        {{ navbarMenu.name | upcase }}</a>
+                    {% if navbarMenu.id == 2 %}
+                        {% if page.url == "/" %}
+                            <a href="{{ navbarMenu.url }}">{{ navbarMenu.name | upcase }}</a>
+                        {% endif %}
+                        {% if page.url == "/gallery/"%}
+                            <a href="../#team">{{ navbarMenu.name | upcase }}</a>
+                        {% endif %}
+                        {% if page.url == "/pages/about/" %}
+                            <a href="../../#team">{{ navbarMenu.name | upcase }}</a>
+                        {% endif %}
+                        {% if page.layout == "gallery"%}
+                            <a href="../../../#team">{{ navbarMenu.name | upcase }}</a>
+                        {% endif %}
+                    {% else %}
+                    <a href="{{ navbarMenu.url }}">{{ navbarMenu.name | upcase }}</a>
+                    {%  endif %}
                 </li>
                 {% else %}
                 {% if page.url == "/" %}
