@@ -1,6 +1,6 @@
 ---
 layout: gallery
-type: engagement
+type: wedding
 name: "Khanor & Juhairah"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475488779/engagement/khanor%2Bjuhairah/751.jpg"
 gallery:
