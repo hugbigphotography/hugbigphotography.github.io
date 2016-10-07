@@ -54,14 +54,17 @@ nav
           overflow: hidden
           position: relative
           z-index: 5
+          border-bottom: 2px solid transparent
+          &:hover
+            border-bottom: 2px solid $white
+          &.active-menu
+            border-bottom: 2px solid $white
           a
             padding-left: 0
             padding-right: 0
             color: $white
-            border-bottom: 2px solid transparent
             outline: none
-            &:hover
-              border-bottom: 2px solid $white
+
 
   &.navbar-shrink
     background-color: $white
@@ -69,11 +72,13 @@ nav
     .container
       .navbar-nav
         .navbar-menu
+          border-bottom: 2px solid transparent
+          &:hover
+            border-bottom: 2px solid $gray
+          &.active-menu
+            border-bottom: 2px solid $gray
           a
             color: $gray
-            border-bottom: 2px solid transparent
-            &:hover
-              border-bottom: 2px solid $gray
 
 .site-footer
   position: relative
@@ -315,7 +320,48 @@ nav
       width: 0%
       left: 50%
 
+  #contact-modal
+    .container
+      padding: 20px
+      .modal-dialog
+        margin: 0
+        .modal-content
+          .modal-body
+            #contact
+              #right-section
+                .caption
+                  max-width: 100%
+
+  #modal-message
+    .modal-content
+      .text-alert
+        font-size: 20px
+
 @media (max-width: 568px)
+  #contact-modal
+    .container
+      top: 0
+      transform: none
+      -webkit-transform: none
+      -ms-transform: none
+      -o-transform: none
+      -moz-transform: none
+      padding: 10px
+      .modal-dialog
+        .modal-content
+          .modal-body
+            padding: 0
+      .modal-dialog
+        .modal-content
+          .modal-header
+            .close
+              margin-top: 7px
+              margin-right: 7px
+              img
+                height: 25px
+
+
+
   .site-footer
     .content-container
       .right-section
