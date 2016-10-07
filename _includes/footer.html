@@ -1,9 +1,11 @@
 <footer class="site-footer">
   <div class="container-fluid">
     <div class="content-container clearfix">
-      <div class="left-section">
+
+      <div class="visible-lg visible-md visible-sm hidden-xs left-section">
         <h5 class="content-text">COPYRIGHT © 2016 HUG BIG PHOTOGRAPHY.</h5>
       </div>
+
       <div class="right-section">
         <ul class="media-container">
           {% for media in site.social-media %}
@@ -15,6 +17,11 @@
           {% endfor %}
         </ul>
       </div>
+
+      <div class="hidden-lg hidden-md hidden-sm visible-xs left-section">
+        <h5 class="content-text">COPYRIGHT © 2016 HUG BIG PHOTOGRAPHY.</h5>
+      </div>
+
     </div>
   </div>
 </footer>
