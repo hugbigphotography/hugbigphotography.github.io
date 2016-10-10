@@ -2,7 +2,7 @@
 layout: gallery
 type: "pre-debut"
 name: "Slovennia"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475490038/pre-debut/slovennia/14.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475490038/pre-debut/slovennia/14.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475490033/pre-debut/slovennia/1.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475490033/pre-debut/slovennia/2.jpg

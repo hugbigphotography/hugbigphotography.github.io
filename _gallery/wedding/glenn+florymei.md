@@ -2,7 +2,7 @@
 layout: gallery
 type: "wedding"
 name: "Glenn & Florymei"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475493587/wedding/glenn%2Bflorymei/65.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475493587/wedding/glenn%2Bflorymei/65.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493591/wedding/glenn%2Bflorymei/113.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493591/wedding/glenn%2Bflorymei/210.jpg

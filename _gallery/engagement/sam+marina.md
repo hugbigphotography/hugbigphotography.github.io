@@ -2,7 +2,7 @@
 layout: gallery
 type: engagement
 name: "Sam & Marina"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475489020/engagement/sam%2Bmarina/42.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475489020/engagement/sam%2Bmarina/42.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475489021/engagement/sam%2Bmarina/110.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475489021/engagement/sam%2Bmarina/29.jpg

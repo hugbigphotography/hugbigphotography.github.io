@@ -2,7 +2,7 @@
 layout: gallery
 type: "wedding"
 name: "John & Judith"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475742408/wedding/john+judith/58-1.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475742408/wedding/john+judith/58-1.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475492741/wedding/john%2Bjudith/1.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475492741/wedding/john%2Bjudith/2.jpg

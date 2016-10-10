@@ -2,7 +2,7 @@
 layout: gallery
 type: engagement
 name: "Karl & Mitch"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475488699/engagement/karl+mitch/MG_5014.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475488699/engagement/karl+mitch/MG_5014.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488703/engagement/karl%2Bmitch/MG_5000.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488703/engagement/karl%2Bmitch/MG_5008.jpg

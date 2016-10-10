@@ -2,7 +2,7 @@
 layout: gallery
 type: "wedding"
 name: "Steve & Cherry"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475494274/wedding/steve%2Bcherry/cover.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475494274/wedding/steve%2Bcherry/cover.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475494233/wedding/steve%2Bcherry/1.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475494233/wedding/steve%2Bcherry/2.jpg

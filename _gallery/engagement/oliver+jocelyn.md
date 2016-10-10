@@ -2,7 +2,7 @@
 layout: gallery
 type: engagement
 name: "Oliver & Jocelyn"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475741001/engagement/oliver+jocelyn/0.1.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475741001/engagement/oliver+jocelyn/0.1.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488900/engagement/oliver%2Bjocelyn/0.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488900/engagement/oliver%2Bjocelyn/115.jpg

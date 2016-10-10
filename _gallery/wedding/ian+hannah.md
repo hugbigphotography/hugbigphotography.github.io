@@ -2,7 +2,7 @@
 layout: gallery
 type: "wedding"
 name: "Ian & Hannah"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475493854/wedding/ian%2Bhannah/56.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475493854/wedding/ian%2Bhannah/56.jpg"
 gallery:
    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493829/wedding/ian%2Bhannah/1.jpg
    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493829/wedding/ian%2Bhannah/2.jpg

@@ -2,7 +2,7 @@
 layout: gallery
 type: "pre-debut"
 name: "Alexa"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475741540/pre-debut/alexa/cover.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475741540/pre-debut/alexa/cover.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475489818/pre-debut/alexa/HBP1_10.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475489818/pre-debut/alexa/HBP2_8.jpg

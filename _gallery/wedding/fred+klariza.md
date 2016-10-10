@@ -2,7 +2,7 @@
 layout: gallery
 type: "wedding"
 name: "Fred & Klariza"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475741885/wedding/fred+klariza/1.1.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475741885/wedding/fred+klariza/1.1.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493369/wedding/fred%2Bklariza/120.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493369/wedding/fred%2Bklariza/218.jpg

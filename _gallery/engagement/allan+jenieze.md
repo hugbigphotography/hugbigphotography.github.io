@@ -2,7 +2,7 @@
 layout: gallery
 type: engagement
 name: "Allan & Jenieze"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475488470/engagement/allan%2Bjenieze/cover.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475488470/engagement/allan%2Bjenieze/cover.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488451/engagement/allan%2Bjenieze/118.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488451/engagement/allan%2Bjenieze/216.jpg

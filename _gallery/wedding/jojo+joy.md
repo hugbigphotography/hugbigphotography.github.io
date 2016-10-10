@@ -2,7 +2,7 @@
 layout: gallery
 type: "wedding"
 name: "Jojo & Joy"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475494200/wedding/jojo%2Bjoy/55.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475494200/wedding/jojo%2Bjoy/55.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475494213/wedding/jojo%2Bjoy/110.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475494213/wedding/jojo%2Bjoy/2.1.jpg

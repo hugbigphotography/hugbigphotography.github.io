@@ -2,7 +2,7 @@
 layout: gallery
 type: engagement
 name: "Jojo & Joy"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475488658/engagement/jojo%2Bjoy/171.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475488658/engagement/jojo%2Bjoy/171.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488657/engagement/jojo%2Bjoy/19.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488657/engagement/jojo%2Bjoy/21.jpg

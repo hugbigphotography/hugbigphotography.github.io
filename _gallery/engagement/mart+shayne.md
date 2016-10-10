@@ -2,7 +2,7 @@
 layout: gallery
 type: engagement
 name: "Mart & Shanye"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475488828/engagement/mart%2Bshayne/241.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475488828/engagement/mart%2Bshayne/241.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488822/engagement/mart%2Bshayne/110.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488822/engagement/mart%2Bshayne/210.jpg

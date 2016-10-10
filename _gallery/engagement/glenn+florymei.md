@@ -2,7 +2,7 @@
 layout: gallery
 type: engagement
 name: "Glenn & Florymei"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475488587/engagement/glenn%2Bflorymei/37.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475488587/engagement/glenn%2Bflorymei/37.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488594/engagement/glenn%2Bflorymei/110.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488594/engagement/glenn%2Bflorymei/25.jpg

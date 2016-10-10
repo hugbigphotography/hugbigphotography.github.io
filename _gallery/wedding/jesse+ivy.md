@@ -2,7 +2,7 @@
 layout: gallery
 type: "wedding"
 name: "Jesse & Ivy"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475494007/wedding/jesse%2Bivy/90.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475494007/wedding/jesse%2Bivy/90.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493976/wedding/jesse%2Bivy/1.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475493976/wedding/jesse%2Bivy/2.jpg

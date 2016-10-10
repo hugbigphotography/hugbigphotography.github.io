@@ -2,7 +2,7 @@
 layout: gallery
 type: engagement
 name: "Allaine & Grazilla"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475488381/engagement/allaine%2Bgrazilla/cover.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475488381/engagement/allaine%2Bgrazilla/cover.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488378/engagement/allaine%2Bgrazilla/116.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488378/engagement/allaine%2Bgrazilla/215.jpg

@@ -2,7 +2,7 @@
 layout: gallery
 type: fashion
 name: "Sasa"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475489329/fashion/sasa/93.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475489329/fashion/sasa/93.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475489328/fashion/sasa/115.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475489328/fashion/sasa/214.jpg

@@ -2,7 +2,7 @@
 layout: gallery
 type: engagement
 name: "Fred & Klariza"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475488530/engagement/fred%2Bklariza/472.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475488530/engagement/fred%2Bklariza/472.jpg"
 gallery:
    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488525/engagement/fred%2Bklariza/126.jpg
    - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488525/engagement/fred%2Bklariza/3.1.jpg

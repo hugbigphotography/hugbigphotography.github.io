@@ -2,7 +2,7 @@
 layout: gallery
 type: "pre-debut"
 name: "Angel"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475489976/pre-debut/angel/20.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475489976/pre-debut/angel/20.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475489969/pre-debut/angel/11.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475489969/pre-debut/angel/21.jpg

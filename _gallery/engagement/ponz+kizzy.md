@@ -2,7 +2,7 @@
 layout: gallery
 type: engagement
 name: "Ponz & Kizzy"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475488948/engagement/ponz%2Bkizzy/28.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475488948/engagement/ponz%2Bkizzy/28.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488940/engagement/ponz%2Bkizzy/1.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488940/engagement/ponz%2Bkizzy/2.jpg

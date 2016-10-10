@@ -2,7 +2,7 @@
 layout: gallery
 type: wedding
 name: "Khanor & Juhairah"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475488779/engagement/khanor%2Bjuhairah/751.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475488779/engagement/khanor%2Bjuhairah/751.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488753/engagement/khanor%2Bjuhairah/1.1.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475488753/engagement/khanor%2Bjuhairah/113.jpg

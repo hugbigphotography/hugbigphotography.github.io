@@ -2,7 +2,7 @@
 layout: gallery
 type: "wedding"
 name: "Chris & Kharren"
-cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/v1475492979/wedding/chris%2Bkharren/58.jpg"
+cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475492979/wedding/chris%2Bkharren/58.jpg"
 gallery:
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475492940/wedding/chris%2Bkharren/1.jpg
     - image: https://res.cloudinary.com/hugbigphotography/image/upload/v1475492940/wedding/chris%2Bkharren/2.jpg
