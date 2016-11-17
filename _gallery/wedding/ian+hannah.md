@@ -1,4 +1,5 @@
 ---
+rank: 6
 layout: template1
 type: "wedding"
 name: "Ian & Hannah"

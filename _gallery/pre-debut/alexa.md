@@ -1,4 +1,5 @@
 ---
+rank: 3
 layout: template1
 type: "pre-debut"
 name: "Alexa"

@@ -1,4 +1,5 @@
 ---
+rank: 2
 layout: template1
 type: "wedding"
 name: "Glenn & Florymei"

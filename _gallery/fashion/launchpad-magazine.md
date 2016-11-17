@@ -1,4 +1,5 @@
 ---
+rank: 2
 layout: template1
 type: fashion
 name: "Launchpad Magazine"

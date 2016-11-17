@@ -1,4 +1,5 @@
 ---
+rank: 1
 layout: template1
 type: "pre-debut"
 name: "Slovennia"

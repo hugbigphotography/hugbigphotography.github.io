@@ -1,4 +1,5 @@
 ---
+rank: 7
 layout: template1
 type: "wedding"
 name: "Steve & Cherry"

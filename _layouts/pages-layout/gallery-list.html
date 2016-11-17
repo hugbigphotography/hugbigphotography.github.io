@@ -13,6 +13,7 @@ javascript: >
         var $container = $('.grid');
         $container.imagesLoaded( function(){
             $container.isotope({
+                sortBy: 'rank',
                 itemSelector: '.gallery-image-item',
                 layoutMode: 'fitRows',
                 sortAscending: true,

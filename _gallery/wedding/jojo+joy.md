@@ -1,4 +1,5 @@
 ---
+rank: 4
 layout: template1
 type: "wedding"
 name: "Jojo & Joy"

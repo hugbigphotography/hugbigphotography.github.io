@@ -1,4 +1,5 @@
 ---
+rank: 9
 layout: template1
 type: "wedding"
 name: "John & Judith"

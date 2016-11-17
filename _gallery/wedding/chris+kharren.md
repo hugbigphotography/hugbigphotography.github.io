@@ -1,4 +1,5 @@
- ---
+---
+rank: 3
 layout: template1
 type: "wedding"
 name: "Chris & Kharren"

@@ -31,7 +31,7 @@
 
     <div class="container-fluid gallery-list-container">
         <div class="grid">
-            {% assign sorted-gallery = site.gallery %}
+            {% assign sorted-gallery = site.gallery | sort: "rank" | reverse %}
             {% for gallery-list in sorted-gallery %}
             <div class="col-md-4 col-sm-6 col-xs-12 no-gutter gallery-image-item {{ gallery-list.type }}">
                 <a class="popup-vimeo" href="{{ gallery-list.url }}">
