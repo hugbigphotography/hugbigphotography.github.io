@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: template1
 type: "wedding"
 name: "Steve & Cherry"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475494274/wedding/steve%2Bcherry/cover.jpg"

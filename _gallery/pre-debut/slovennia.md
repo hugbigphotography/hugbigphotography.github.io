@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: template1
 type: "pre-debut"
 name: "Slovennia"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475490038/pre-debut/slovennia/14.jpg"

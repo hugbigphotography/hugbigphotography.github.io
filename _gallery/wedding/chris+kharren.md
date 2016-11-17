@@ -1,5 +1,5 @@
  ---
-layout: gallery
+layout: template1
 type: "wedding"
 name: "Chris & Kharren"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475492979/wedding/chris%2Bkharren/58.jpg"

@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: template1
 type: engagement
 name: "Oliver & Jocelyn"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475741001/engagement/oliver+jocelyn/0.1.jpg"

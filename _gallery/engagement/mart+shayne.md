@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: template1
 type: engagement
 name: "Mart & Shanye"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475488828/engagement/mart%2Bshayne/241.jpg"

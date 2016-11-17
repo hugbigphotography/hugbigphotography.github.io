@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: template1
 type: "wedding"
 name: "Fred & Klariza"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475741885/wedding/fred+klariza/1.1.jpg"

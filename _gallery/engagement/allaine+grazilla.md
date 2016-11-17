@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: template1
 type: engagement
 name: "Allaine & Grazilla"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475488381/engagement/allaine%2Bgrazilla/cover.jpg"

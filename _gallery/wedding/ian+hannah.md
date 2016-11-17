@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: template1
 type: "wedding"
 name: "Ian & Hannah"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475493854/wedding/ian%2Bhannah/56.jpg"

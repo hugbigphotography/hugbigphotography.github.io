@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: template1
 type: fashion
 name: "Sasa"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475489329/fashion/sasa/93.jpg"

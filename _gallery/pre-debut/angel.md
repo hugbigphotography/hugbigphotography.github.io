@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: template1
 type: "pre-debut"
 name: "Angel"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475489976/pre-debut/angel/20.jpg"

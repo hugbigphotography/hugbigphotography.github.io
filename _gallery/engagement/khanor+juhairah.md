@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: template1
 type: engagement
 name: "Khanor & Juhairah"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475488779/engagement/khanor%2Bjuhairah/751.jpg"

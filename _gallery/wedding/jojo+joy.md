@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: template1
 type: "wedding"
 name: "Jojo & Joy"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475494200/wedding/jojo%2Bjoy/55.jpg"

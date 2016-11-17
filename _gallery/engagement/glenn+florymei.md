@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: template1
 type: engagement
 name: "Glenn & Florymei"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475488587/engagement/glenn%2Bflorymei/37.jpg"

@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: template1
 type: engagement
 name: "Sam & Marina"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475489020/engagement/sam%2Bmarina/42.jpg"

@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: template1
 type: engagement
 name: "Jojo & Joy"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475488658/engagement/jojo%2Bjoy/171.jpg"

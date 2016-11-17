@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: template1
 type: engagement
 name: "Fred & Klariza"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475488530/engagement/fred%2Bklariza/472.jpg"

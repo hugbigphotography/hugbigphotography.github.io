@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: template1
 type: engagement
 name: "Ponz & Kizzy"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475488948/engagement/ponz%2Bkizzy/28.jpg"

@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: template1
 type: engagement
 name: "Karl & Mitch"
 cover-image: "https://res.cloudinary.com/hugbigphotography/image/upload/h_640/v1475488699/engagement/karl+mitch/MG_5014.jpg"
