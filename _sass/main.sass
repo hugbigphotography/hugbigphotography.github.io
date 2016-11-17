@@ -172,7 +172,7 @@ nav
               .content-button-container
                 margin: 30px 0 10px
                 #ss-submit
-                  //height: 40px
+                  height: 40px
                   background-color: #a8dddc
                   color: #ffffff
                   text-transform: uppercase
@@ -350,6 +350,11 @@ nav
         font-size: 20px
 
 @media (max-width: 568px)
+  nav
+    .navbar-nav
+      li
+        a
+          font-size: 14px
   #contact-modal
     .container
       top: 0
@@ -363,6 +368,19 @@ nav
         .modal-content
           .modal-body
             padding: 0
+            #contact
+              .logo-section
+                margin-bottom: 10px
+                img
+                  height: 120px
+              .contact-form
+                .form-item
+                  margin-top: 10px
+                  margin-bottom: 10px
+                .content-button-container
+                  margin-top: 10px
+                  #ss-submit
+                    margin-top: 10px
       .modal-dialog
         .modal-content
           .modal-header
@@ -371,8 +389,6 @@ nav
               margin-right: 7px
               img
                 height: 25px
-
-
 
   .site-footer
     .content-container
