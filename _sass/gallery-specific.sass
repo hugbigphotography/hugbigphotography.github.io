@@ -92,6 +92,7 @@
   &.in
     background-color: rgba(0,0,0,0.7)
     .modal-dialog
+      z-index: 1051
       margin-top: 0
       margin-bottom: 0
       top: 5%
@@ -130,6 +131,10 @@
     -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.35)
     box-shadow: none
     text-shadow: none
+    span
+      top: -2px
+      position: relative
+      display: block
     &:focus
       outline: none
     &:hover
@@ -146,6 +151,11 @@
         line-height: 50px
         margin-bottom: 15px
         padding-bottom: 15px
+
+@media (max-width: $screen-md-max)
+  .modal.fade.in
+    .modal-dialog
+      max-width: 90%
 
 @media (max-width: $screen-xs-max)
   #gallery-container
