@@ -71,30 +71,15 @@
         &.b-loaded
           background: transparent
 
-.modal.fade
-  .modal-dialog
-    margin: 0 auto
-    position: absolute
-    -webkit-transition: all 0.3s ease
-    -moz-transition: all 0.3s ease
-    -o-transition: all 0.3s ease
-    transition: all 0.3s ease
-    width: fit-content
-    top: 5%
-    left: 0
-    right: 0
-    opacity: 1
-    -webkit-transform: none
-    -ms-transform: none
-    -o-transform: none
-    transform: none
-
-  &.in
-    background-color: rgba(0,0,0,0.7)
+  .modal.fade
     .modal-dialog
-      z-index: 1051
-      margin-top: 0
-      margin-bottom: 0
+      margin: 0 auto
+      position: absolute
+      -webkit-transition: all 0.3s ease
+      -moz-transition: all 0.3s ease
+      -o-transition: all 0.3s ease
+      transition: all 0.3s ease
+      width: fit-content
       top: 5%
       left: 0
       right: 0
@@ -104,42 +89,57 @@
       -o-transform: none
       transform: none
 
+    &.in
+      background-color: rgba(0,0,0,0.7)
+      .modal-dialog
+        z-index: 1051
+        margin-top: 0
+        margin-bottom: 0
+        top: 5%
+        left: 0
+        right: 0
+        opacity: 1
+        -webkit-transform: none
+        -ms-transform: none
+        -o-transform: none
+        transform: none
 
-/* DIALOG CONTENT
-.modal-content
-  border: none
-  border-radius: 2px
-  -webkit-box-shadow: none
-  -moz-box-shadow: none
-  box-shadow: none
-  padding: 0
-  background-color: transparent
-  .close
-    position: absolute
-    width: 35px
-    height: 35px
-    background-color: #000
-    opacity: 1
-    color: #ffffff
-    z-index: 999
-    right: -5px
-    top: -5px
-    border-radius: 50%
-    font-size: 24px
-    border: 2px solid #fff
-    line-height: 34px
-    -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.35)
+
+  /* DIALOG CONTENT
+  .modal-content
+    border: none
+    border-radius: 2px
+    -webkit-box-shadow: none
+    -moz-box-shadow: none
     box-shadow: none
-    text-shadow: none
-    span
-      top: -2px
-      position: relative
-      display: block
-    &:focus
-      outline: none
-    &:hover
+    padding: 0
+    background-color: transparent
+    .close
+      position: absolute
+      width: 35px
+      height: 35px
+      background-color: #000
       opacity: 1
       color: #ffffff
+      z-index: 999
+      right: -5px
+      top: -5px
+      border-radius: 50%
+      font-size: 24px
+      border: 2px solid #fff
+      line-height: 34px
+      -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.35)
+      box-shadow: none
+      text-shadow: none
+      span
+        top: -2px
+        position: relative
+        display: block
+      &:focus
+        outline: none
+      &:hover
+        opacity: 1
+        color: #ffffff
 
 @media (max-width: 1440px)
   .cover-container
