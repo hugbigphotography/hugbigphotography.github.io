@@ -84,7 +84,7 @@ button-filter:
 
 prose:
   rooturl: "_gallery"
-  siteurl: "www.hugbigphotography.com/"
+  siteurl: "www.hugbigphotography.com"
   metadata:
     _video:
       - name: "published"
@@ -92,10 +92,10 @@ prose:
           element: 'hidden'
           value: true
 
-      - name: "title"
+      - name: "name"
         field:
           element: "text"
-          label: "title"
+          label: "name"
 
 
 
