@@ -82,5 +82,21 @@ button-filter:
     filter: "fashion"
 
 
+prose:
+  rooturl: "_gallery"
+  siteurl: "www.hugbigphotography.com/"
+  metadata:
+    _video:
+      - name: "published"
+        field:
+          element: 'hidden'
+          value: true
+
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+
+
 
 
