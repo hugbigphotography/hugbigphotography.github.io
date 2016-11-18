@@ -54,7 +54,5 @@ gallery:
       https://res.cloudinary.com/hugbigphotography/image/upload/v1475489969/pre-debut/angel/23.jpg
   - image: >-
       https://res.cloudinary.com/hugbigphotography/image/upload/v1475489969/pre-debut/angel/24.jpg
-  - image: >-
-      https://res.cloudinary.com/hugbigphotography/image/upload/v1475489969/pre-debut/angel/24.jpg
 published: true
 ---
