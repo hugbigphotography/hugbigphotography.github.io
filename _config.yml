@@ -15,7 +15,23 @@ collections:
   gallery:
     output: true
     permalink: /gallery/:path/
+    
+prose:
+  rooturl: "_gallery"
+  siteurl: "www.hugbigphotography.com"
+  metadata:
+    _video:
+      - name: "published"
+        field:
+          element: 'hidden'
+          value: true
 
+      - name: "name"
+        field:
+          element: "text"
+          label: "name"
+          
+          
 cover:
   - rank: 1
     image: "item-1"
@@ -80,23 +96,6 @@ button-filter:
   - id: 4
     name: Fashion
     filter: "fashion"
-
-
-prose:
-  rooturl: "_gallery"
-  siteurl: "www.hugbigphotography.com"
-  metadata:
-    _video:
-      - name: "published"
-        field:
-          element: 'hidden'
-          value: true
-
-      - name: "name"
-        field:
-          element: "text"
-          label: "name"
-
 
 
 
