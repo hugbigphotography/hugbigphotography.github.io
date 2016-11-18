@@ -26,10 +26,10 @@ prose:
           element: 'hidden'
           value: true
 
-      - name: "name"
+      - name: "title"
         field:
           element: "text"
-          label: "name"
+          label: "title"
           
           
 cover:
@@ -96,6 +96,3 @@ button-filter:
   - id: 4
     name: Fashion
     filter: "fashion"
-
-
-
