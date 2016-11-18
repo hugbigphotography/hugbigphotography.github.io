@@ -20,7 +20,7 @@ prose:
   rooturl: "_gallery"
   siteurl: "www.hugbigphotography.com"
   metadata:
-    _video:
+    _gallery:
       - name: "published"
         field:
           element: 'hidden'
