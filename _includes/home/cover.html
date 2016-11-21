@@ -1,7 +1,8 @@
 <div class="container-fluid no-gutter">
     <div class="bg-overlay"></div>
     <ul class="cb-slideshow">
-        {% for slider in site.data.imageSlider %}
+        {% assign sorted-slider = site.data.imageSlider | sort: "rank" %}
+        {% for slider in sorted-slider %}
         <li class="{{ cover-item.image }}">
             <span style="background-image: url('{{ slider.image }}')"></span>
         </li>
