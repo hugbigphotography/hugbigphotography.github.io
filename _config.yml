@@ -30,29 +30,6 @@ prose:
         field:
           element: "text"
           label: "title"
-          
-          
-cover:
-  - rank: 1
-    image: "item-1"
-
-  - rank: 2
-    image: "item-2"
-
-  - rank: 3
-    image: "item-3"
-
-  - rank: 4
-    image: "item-4"
-
-  - rank: 5
-    image: "item-5"
-
-  - rank: 6
-    image: "item-6"
-
-  - rank: 7
-    image: "item-7"
 
 
 team:
