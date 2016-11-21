@@ -35,6 +35,30 @@
 <script type="text/javascript" src="/js/modernizr.min.js"></script>
 <script type="text/javascript" src="/js/bootstrap.min.js"></script>
 
+{% if page.url == "/" or page.url == "index.html" %}
+<script type="text/javascript" src="/js/background.cycle.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#image-slider").backgroundCycle({
+            imageUrls: [
+                'https://res.cloudinary.com/hugbigphotography/image/upload/SLIDER/1.jpg',
+                'https://res.cloudinary.com/hugbigphotography/image/upload/SLIDER/2.jpg',
+                'https://res.cloudinary.com/hugbigphotography/image/upload/SLIDER/3.jpg',
+                'https://res.cloudinary.com/hugbigphotography/image/upload/SLIDER/4.jpg',
+                'https://res.cloudinary.com/hugbigphotography/image/upload/SLIDER/5.jpg',
+                'https://res.cloudinary.com/hugbigphotography/image/upload/SLIDER/6.jpg',
+                'https://res.cloudinary.com/hugbigphotography/image/upload/SLIDER/7.jpg',
+                'https://res.cloudinary.com/hugbigphotography/image/upload/SLIDER/8.jpg',
+                'https://res.cloudinary.com/hugbigphotography/image/upload/SLIDER/9.jpg'
+            ],
+            fadeSpeed: 2000,
+            duration: 6000,
+            backgroundSize: SCALING_MODE_COVER
+        });
+    });
+</script>
+{% endif %}
+
 <script type="text/javascript">
     $('#icon-transition').on('click', function () {
         $(this).toggleClass('open');
