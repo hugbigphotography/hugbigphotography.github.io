@@ -1,0 +1,20 @@
+- rank: 1
+  image: "https://res.cloudinary.com/hugbigphotography/image/upload/SLIDER/1.jpg"
+
+- rank: 2
+  image: "https://res.cloudinary.com/hugbigphotography/image/upload/SLIDER/2.jpg"
+
+- rank: 3
+  image: "https://res.cloudinary.com/hugbigphotography/image/upload/SLIDER/3.jpg"
+
+- rank: 4
+  image: "https://res.cloudinary.com/hugbigphotography/image/upload/SLIDER/4.jpg"
+
+- rank: 5
+  image: "https://res.cloudinary.com/hugbigphotography/image/upload/SLIDER/5.jpg"
+
+- rank: 6
+  image: "https://res.cloudinary.com/hugbigphotography/image/upload/SLIDER/6.jpg"
+
+- rank: 7
+  image: "https://res.cloudinary.com/hugbigphotography/image/upload/SLIDER/7.jpg"
