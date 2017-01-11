@@ -1,7 +1,7 @@
 ---
 published: true
 title: Bryan+Josan
-rate: 10
+rank: 10
 layout: template1
 type: wedding
 name: Bryan & Josan

@@ -33,7 +33,7 @@
         <div class="grid">
             {% assign sorted-gallery = site.gallery | sort: "rank" | reverse %}
             {% for gallery-list in sorted-gallery %}
-            <div class="col-md-4 col-sm-6 col-xs-12 no-gutter gallery-image-item {{ gallery-list.type }}">
+            <div class="col-md-4 col-sm-6 col-xs-12 no-gutter gallery-image-item {{ gallery-list.type }}" data-rank="{{ gallery-list.rank }}">
                 <a class="popup-vimeo" href="{{ gallery-list.url }}">
                     <div class="gallery-overlay"></div>
                     <div class="gallery-image"  style="background-image: url('{{ gallery-list.cover-image }}');"></div>
